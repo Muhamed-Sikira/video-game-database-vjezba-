@@ -2,3 +2,4 @@ ako ne ucitava stranicu idi na ova dva linka dole za API jer je garant isteko i 
 
 rapid api key i host: (https://rapidapi.com/accujazz/api/rawg-video-games-database) ovdje treba login
 onda tvoj api key: (https://rawg.io/apidocs) ovdje treba login 
+link tutorijala (https://youtu.be/LiOzTQAz13Q)
